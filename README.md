@@ -33,6 +33,9 @@ Before you start, ensure you have the following installed:
     pip install -r requirements.txt
     ```
 
+### Download the Weights for 10K and 10M Training Steps
+Download the weight here: [link](https://drive.google.com/file/d/1TgfGittIQC2KhNbut2l4NSASUr0swe1u/edit)
+
 ## Usage
 
 ### Running the Jupyter Notebook
